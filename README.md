@@ -1,17 +1,16 @@
 # Olá, sou o Lucas Frigo de Souza ✌
 
 Sou formado em Engenharia da Computação, MBA em Engenharia de Software e cursando MBA em CyberSecurity e Ethical Hacking.
-
 Com 10 anos de experiência em TI, trabalho atualmente como desenvolvedor fullstack principalmente com C# e ReactJS. 
 
-Busco sempre novos conhecimentos nos mais diversos assuntos em tecnologia.
+Busco sempre novos conhecimentos nos mais diversos assuntos e tecnologias.
 
 Não deixe de conferir os últimos artigos que escrevi para o meu blog:
-* [Resumo da Semana - 16](https://www.blog.lfrigodesouza.net/2021/04/12/resumo-da-semana/16/) 
-* [Resumo da Semana - 15](https://www.blog.lfrigodesouza.net/2021/04/05/resumo-da-semana/15/) 
-* [Padrões de Projetos - Parte I - Introdução](https://www.blog.lfrigodesouza.net/2021/04/05/padroes-de-projetos/Parte-I-Introducao/) 
-* [Resumo da Semana - 14](https://www.blog.lfrigodesouza.net/2021/03/29/resumo-da-semana/14/) 
-* [Resumo da Semana - 13](https://www.blog.lfrigodesouza.net/2021/03/22/resumo-da-semana/13/) 
+* [Resumo da Semana - 16](https://www.blog.lfrigodesouza.net/2021/04/12/resumo-da-semana/16/) _(12 dias atrás)_ 
+* [Resumo da Semana - 15](https://www.blog.lfrigodesouza.net/2021/04/05/resumo-da-semana/15/) _(19 dias atrás)_ 
+* [Padrões de Projetos - Parte I - Introdução](https://www.blog.lfrigodesouza.net/2021/04/05/padroes-de-projetos/Parte-I-Introducao/) _(19 dias atrás)_ 
+* [Resumo da Semana - 14](https://www.blog.lfrigodesouza.net/2021/03/29/resumo-da-semana/14/) _(26 dias atrás)_ 
+* [Resumo da Semana - 13](https://www.blog.lfrigodesouza.net/2021/03/22/resumo-da-semana/13/) _(33 dias atrás)_ 
 
 
 
