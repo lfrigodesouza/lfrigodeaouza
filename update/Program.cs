@@ -1,25 +1,38 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 
-var template = @"# Olá, sou o Lucas Frigo de Souza ✌
+var template = @"# ✌ Olá, seja bem-vindo(a)!
 
-Sou formado em Engenharia da Computação, MBA em Engenharia de Software e cursando MBA em CyberSecurity e Ethical Hacking.
-Com 10 anos de experiência em TI, trabalho atualmente como desenvolvedor fullstack principalmente com C# e ReactJS. 
+Me chamo **Lucas**, sou formado em Engenharia da Computação, tenho MBA em Engenharia de Software e estou cursando um MBA em CyberSecurity e Ethical Hacking.
+Com 10 anos de experiência em TI, trabalho atualmente como desenvolvedor fullstack, principalmente com C# e ReactJS.
 
-Busco sempre novos conhecimentos nos mais diversos assuntos e tecnologias.
+Busco sempre novos conhecimentos nos mais diversos assuntos e tecnologias, e nos meus repositórios você vai encontrar todos tipos de projetos.
+</br>
 
-Não deixe de conferir os últimos artigos que escrevi para o meu blog:
+## ✒️Artigos Recentes
+<ul>
 #ARTICLES_PLACEHOLDER#
+<li style=""list-style-type: none;""><a href=""https://blog.lfrigodesouza.net"" target=""_blank"">Veja mais...</a></li>
+</ul>
 
-
-<br/><p align=""center"">
+## 📞 Onde me encontrar
+<p align=""center"">
 <a href=""https://www.linkedin.com/in/lfrigodesouza/""><img src=""https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lfrigodesouza/""></a>
 <a href=""https://twitter.com/lfrigodesouza/""><img src=""https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/lfrigodesouza/""></a>
 <a href=""https://LFrigoDeSouza.NET/""><img src=""https://img.shields.io/badge/-LFS.NET-9e9e9e?style=flat-square&logo=microsoft-edge&logoColor=white&link=https://LFrigoDeSouza.NET/""></a>
+</p>
+</br>
+
+## 👨‍💻 Estatísticas do meu GitHub
+<p align=""center"">
+
+<img src=""https://github-readme-stats.vercel.app/api/top-langs/?username=lfrigodesouza&layout=compact&theme=dark""/>
+
+<img src=""https://github-readme-stats.vercel.app/api?username=lfrigodesouza&show_icons=true&theme=dark"">
+
 </p>
 ";
 
@@ -35,79 +48,27 @@ var responseContent = await response.Content.ReadAsStringAsync();
 if(string.IsNullOrWhiteSpace(responseContent))
     throw new Exception("Não foi possível obter os dados");
 
-var content = JsonSerializer.Deserialize<Content>(responseContent);
+var posts = JsonDocument.Parse(responseContent).RootElement.GetProperty("posts");
 var postsLinks = new StringBuilder();
 
 for (int i = 0; i < 5; i++)
 {
-    postsLinks.AppendLine($"* [{content.posts[i].title}]({content.posts[i].permalink}) _({GetPublishDate(content.posts[i].date)})_ ");
+    var (title, postDate, permaLink) = GetPostDetails(posts[i]);
+
+    postsLinks.AppendLine($"<li style=\"list-style-type: none;\"><a href=\"{permaLink}\" target=\"_blank\">{title}</a><i> &nbsp;({GetPublishDate(postDate)})</i></li>");
+    // postsLinks.AppendLine($"* [{title}]({permaLink}) _({GetPublishDate(postDate)})_ ");
 }
 var readmeContent = template.Replace("#ARTICLES_PLACEHOLDER#", postsLinks.ToString());
 File.WriteAllText("../README.md", readmeContent);
 
 string GetPublishDate(DateTime postDate){
     var daysFromPost = (DateTime.Now - postDate).TotalDays;
-   return daysFromPost <= 0 ? "1 dia atrás" : $"{daysFromPost.ToString("#")} dias atrás";
+   return daysFromPost <= 0 ? "hoje" : $"{daysFromPost.ToString("#")} dias atrás";
 }
 
-    public class Meta
-    {
-        public string title { get; set; }
-        public string subtitle { get; set; }
-        public string description { get; set; }
-        public string author { get; set; }
-        public string url { get; set; }
-        public string root { get; set; }
-    }
-
-    public class Page
-    {
-        public string title { get; set; }
-        public DateTime date { get; set; }
-        public DateTime updated { get; set; }
-        public bool comments { get; set; }
-        public string path { get; set; }
-        public string permalink { get; set; }
-        public string excerpt { get; set; }
-        public string text { get; set; }
-    }
-
-    public class Category
-    {
-        public string name { get; set; }
-        public string slug { get; set; }
-        public string permalink { get; set; }
-    }
-
-    public class Tag
-    {
-        public string name { get; set; }
-        public string slug { get; set; }
-        public string permalink { get; set; }
-    }
-
-    public class Post
-    {
-        public string title { get; set; }
-        public string slug { get; set; }
-        public DateTime date { get; set; }
-        public DateTime updated { get; set; }
-        public bool comments { get; set; }
-        public string path { get; set; }
-        public string link { get; set; }
-        public string permalink { get; set; }
-        public string excerpt { get; set; }
-        public string text { get; set; }
-        public List<Category> categories { get; set; }
-        public List<Tag> tags { get; set; }
-    }
-
-    public class Content
-    {
-        public Meta meta { get; set; }
-        public List<Page> pages { get; set; }
-        public List<Post> posts { get; set; }
-        public List<Category> categories { get; set; }
-        public List<Tag> tags { get; set; }
-    }
-
+(string title, DateTime postDate, string permaLink) GetPostDetails(JsonElement post){
+    var title = post.GetProperty("title").ToString();
+    var postDate = post.GetProperty("date").GetDateTime();
+    var permaLink = post.GetProperty("permalink").ToString();
+    return(title, postDate, permaLink);
+}
