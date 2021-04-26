@@ -8,11 +8,11 @@ Busco sempre novos conhecimentos nos mais diversos assuntos e tecnologias, e nos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/12/resumo-da-semana/16/" target="_blank">Resumo da Semana - 16</a><i> &nbsp;(13 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/05/resumo-da-semana/15/" target="_blank">Resumo da Semana - 15</a><i> &nbsp;(19 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/05/padroes-de-projetos/Parte-I-Introducao/" target="_blank">Padrões de Projetos - Parte I - Introdução</a><i> &nbsp;(19 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/03/29/resumo-da-semana/14/" target="_blank">Resumo da Semana - 14</a><i> &nbsp;(27 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/03/22/resumo-da-semana/13/" target="_blank">Resumo da Semana - 13</a><i> &nbsp;(34 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/12/resumo-da-semana/16/" target="_blank">Resumo da Semana - 16</a><i> &nbsp;(14 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/05/resumo-da-semana/15/" target="_blank">Resumo da Semana - 15</a><i> &nbsp;(20 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/05/padroes-de-projetos/Parte-I-Introducao/" target="_blank">Padrões de Projetos - Parte I - Introdução</a><i> &nbsp;(20 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/03/29/resumo-da-semana/14/" target="_blank">Resumo da Semana - 14</a><i> &nbsp;(28 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/03/22/resumo-da-semana/13/" target="_blank">Resumo da Semana - 13</a><i> &nbsp;(35 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
