@@ -12,11 +12,11 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/26/resumo-da-semana/17/" target="_blank">Resumo da Semana - 17</a><i> &nbsp;( dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/12/resumo-da-semana/16/" target="_blank">Resumo da Semana - 16</a><i> &nbsp;(15 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/05/resumo-da-semana/15/" target="_blank">Resumo da Semana - 15</a><i> &nbsp;(21 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/05/padroes-de-projetos/Parte-I-Introducao/" target="_blank">Padrões de Projetos - Parte I - Introdução</a><i> &nbsp;(21 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/03/29/resumo-da-semana/14/" target="_blank">Resumo da Semana - 14</a><i> &nbsp;(29 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/26/resumo-da-semana/17/" target="_blank">Resumo da Semana - 17</a><i> &nbsp;(1 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/12/resumo-da-semana/16/" target="_blank">Resumo da Semana - 16</a><i> &nbsp;(16 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/05/resumo-da-semana/15/" target="_blank">Resumo da Semana - 15</a><i> &nbsp;(22 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/05/padroes-de-projetos/Parte-I-Introducao/" target="_blank">Padrões de Projetos - Parte I - Introdução</a><i> &nbsp;(22 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/03/29/resumo-da-semana/14/" target="_blank">Resumo da Semana - 14</a><i> &nbsp;(30 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
