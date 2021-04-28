@@ -28,40 +28,44 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 <img src=""https://github-readme-stats.vercel.app/api?username=lfrigodesouza&show_icons=true&theme=dark"">
 </p>
 ";
-
 Console.WriteLine("Iniciando processamento do README.md");
 var url = "https://blog.lfrigodesouza.net/content.json";
 var client = new HttpClient();
-
 var response = await client.GetAsync(url);
-if(!response.IsSuccessStatusCode)
+if (!response.IsSuccessStatusCode)
     throw new Exception("Não foi possível obter os dados");
-
 var responseContent = await response.Content.ReadAsStringAsync();
-if(string.IsNullOrWhiteSpace(responseContent))
+if (string.IsNullOrWhiteSpace(responseContent))
     throw new Exception("Não foi possível obter os dados");
-
 var posts = JsonDocument.Parse(responseContent).RootElement.GetProperty("posts");
 var postsLinks = new StringBuilder();
-
-for (int i = 0; i < 5; i++)
+for (var i = 0; i < 5; i++)
 {
     var (title, postDate, permaLink) = GetPostDetails(posts[i]);
 
-    postsLinks.AppendLine($"<li style=\"list-style-type: none;\"><a href=\"{permaLink}\" target=\"_blank\">{title}</a><i> &nbsp;({GetPublishDate(postDate)})</i></li>");
+    postsLinks.AppendLine(
+        $"<li style=\"list-style-type: none;\"><a href=\"{permaLink}\" target=\"_blank\">{title}</a><i> &nbsp;({GetPublishDate(postDate)})</i></li>");
     // postsLinks.AppendLine($"* [{title}]({permaLink}) _({GetPublishDate(postDate)})_ ");
 }
+
 var readmeContent = template.Replace("#ARTICLES_PLACEHOLDER#", postsLinks.ToString());
 File.WriteAllText("../README.md", readmeContent);
 
-string GetPublishDate(DateTime postDate){
+string GetPublishDate(DateTime postDate)
+{
     var daysFromPost = (DateTime.Now - postDate).TotalDays;
-   return daysFromPost <= 0 ? "hoje" : $"{daysFromPost.ToString("#")} dias atrás";
+    return daysFromPost switch
+    {
+        < 1 => "hoje",
+        < 2 => "1 dia atrás",
+        _ => $"{daysFromPost.ToString("#")} dias atrás"
+    };
 }
 
-(string title, DateTime postDate, string permaLink) GetPostDetails(JsonElement post){
+(string title, DateTime postDate, string permaLink) GetPostDetails(JsonElement post)
+{
     var title = post.GetProperty("title").ToString();
     var postDate = post.GetProperty("date").GetDateTime();
     var permaLink = post.GetProperty("permalink").ToString();
-    return(title, postDate, permaLink);
+    return (title, postDate, permaLink);
 }
