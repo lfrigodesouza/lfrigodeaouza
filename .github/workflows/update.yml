@@ -18,15 +18,7 @@ jobs:
         with:
           fetch-depth: 1
           dotnet-version: 5.0.x
-      - name: Restore dependencies
-        run: |
-          cd ${GITHUB_WORKSPACE}/update/
-          dotnet restore
-      - name: Build
-        run: |
-          cd ${GITHUB_WORKSPACE}/update/
-          dotnet build --no-restore
-      - name: generate README
+      - name: Generate README
         run: |
           cd ${GITHUB_WORKSPACE}/update/
           dotnet run
