@@ -7,7 +7,7 @@ using System.Text.Json;
 var template = @"# ✌ Olá, seja bem-vindo(a)!
 
 Me chamo **Lucas**, sou formado em Engenharia da Computação, tenho MBA em Engenharia de Software e estou cursando um MBA em CyberSecurity.
-Com 10 anos de experiência em TI, trabalho atualmente como desenvolvedor sênior na [Iteris Consultoria e Software](https://www.iteris.com.br/).
+Com 10 anos de experiência em TI, trabalho atualmente como desenvolvedor sênior.
 
 Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos conhecimentos nos mais diversos assuntos e tecnologias, e nos meus repositórios você vai encontrar todos tipos de projetos.
 </br><p align=""center"">
@@ -29,7 +29,7 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 </p>
 ";
 Console.WriteLine("Iniciando processamento do README.md");
-var url = "https://blog.lfrigodesouza.net/content.json";
+var url = "https://lfrigodesouza-functions.azurewebsites.net/api/blog-latests-posts";
 var client = new HttpClient();
 var response = await client.GetAsync(url);
 if (!response.IsSuccessStatusCode)
@@ -37,7 +37,7 @@ if (!response.IsSuccessStatusCode)
 var responseContent = await response.Content.ReadAsStringAsync();
 if (string.IsNullOrWhiteSpace(responseContent))
     throw new Exception("Não foi possível obter os dados");
-var posts = JsonDocument.Parse(responseContent).RootElement.GetProperty("posts");
+var posts = JsonDocument.Parse(responseContent).RootElement;
 var postsLinks = new StringBuilder();
 for (var i = 0; i < 5; i++)
 {
