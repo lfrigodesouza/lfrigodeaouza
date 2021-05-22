@@ -16,7 +16,7 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 <li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/05/13/resumo-da-semana/19/" target="_blank">Resumo da Semana - 19</a><i> &nbsp;(8 dias atrás)</i></li>
 <li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/05/03/resumo-da-semana/18/" target="_blank">Resumo da Semana - 18</a><i> &nbsp;(18 dias atrás)</i></li>
 <li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/26/resumo-da-semana/17/" target="_blank">Resumo da Semana - 17</a><i> &nbsp;(25 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/12/resumo-da-semana/16/" target="_blank">Resumo da Semana - 16</a><i> &nbsp;(39 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/04/12/resumo-da-semana/16/" target="_blank">Resumo da Semana - 16</a><i> &nbsp;(40 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
