@@ -12,11 +12,11 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/16/resumo-da-semana/24/" target="_blank">Resumo da Semana - 24</a><i> &nbsp;(4 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/06/08/resumo-da-semana/23/" target="_blank">Resumo da Semana - 23</a><i> &nbsp;(73 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/06/01/winget-O-gerenciador-de-pacotes-do-Windows/" target="_blank">winget - O gerenciador de pacotes do Windows</a><i> &nbsp;(80 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/05/31/resumo-da-semana/22/" target="_blank">Resumo da Semana - 22</a><i> &nbsp;(80 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/05/24/resumo-da-semana/21/" target="_blank">Resumo da Semana - 21</a><i> &nbsp;(88 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/16/resumo-da-semana/24/" target="_blank">Resumo da Semana - 24</a><i> &nbsp;(5 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/06/08/resumo-da-semana/23/" target="_blank">Resumo da Semana - 23</a><i> &nbsp;(74 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/06/01/winget-O-gerenciador-de-pacotes-do-Windows/" target="_blank">winget - O gerenciador de pacotes do Windows</a><i> &nbsp;(81 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/05/31/resumo-da-semana/22/" target="_blank">Resumo da Semana - 22</a><i> &nbsp;(81 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/05/24/resumo-da-semana/21/" target="_blank">Resumo da Semana - 21</a><i> &nbsp;(89 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
