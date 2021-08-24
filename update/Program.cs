@@ -53,7 +53,7 @@ File.WriteAllText("../README.md", readmeContent);
 
 string GetPublishDate(DateTime postDate)
 {
-    var daysFromPost = (DateTime.Now - postDate).TotalDays;
+    var daysFromPost = (DateTime.Now.Date - postDate.Date).TotalDays;
     return daysFromPost switch
     {
         < 1 => "hoje",
