@@ -12,11 +12,11 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/30/resumo-da-semana/26/" target="_blank">Resumo da Semana - 26</a><i> &nbsp;(13 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/23/resumo-da-semana/25/" target="_blank">Resumo da Semana - 25</a><i> &nbsp;(20 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/16/resumo-da-semana/24/" target="_blank">Resumo da Semana - 24</a><i> &nbsp;(27 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/06/08/resumo-da-semana/23/" target="_blank">Resumo da Semana - 23</a><i> &nbsp;(96 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/06/01/winget-O-gerenciador-de-pacotes-do-Windows/" target="_blank">winget - O gerenciador de pacotes do Windows</a><i> &nbsp;(103 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/30/resumo-da-semana/26/" target="_blank">Resumo da Semana - 26</a><i> &nbsp;(14 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/23/resumo-da-semana/25/" target="_blank">Resumo da Semana - 25</a><i> &nbsp;(21 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/16/resumo-da-semana/24/" target="_blank">Resumo da Semana - 24</a><i> &nbsp;(28 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/06/08/resumo-da-semana/23/" target="_blank">Resumo da Semana - 23</a><i> &nbsp;(97 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/06/01/winget-O-gerenciador-de-pacotes-do-Windows/" target="_blank">winget - O gerenciador de pacotes do Windows</a><i> &nbsp;(104 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
