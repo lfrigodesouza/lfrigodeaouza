@@ -12,11 +12,11 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/09/15/lgpd/Parte-VI-Sancoes-Administrativas/" target="_blank">LGPD - Parte VI - Sanções Administrativas</a><i> &nbsp;(1 dia atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/09/13/resumo-da-semana/27/" target="_blank">Resumo da Semana - 27</a><i> &nbsp;(3 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/30/resumo-da-semana/26/" target="_blank">Resumo da Semana - 26</a><i> &nbsp;(17 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/23/resumo-da-semana/25/" target="_blank">Resumo da Semana - 25</a><i> &nbsp;(24 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/16/resumo-da-semana/24/" target="_blank">Resumo da Semana - 24</a><i> &nbsp;(31 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/09/15/lgpd/Parte-VI-Sancoes-Administrativas/" target="_blank">LGPD - Parte VI - Sanções Administrativas</a><i> &nbsp;(2 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/09/13/resumo-da-semana/27/" target="_blank">Resumo da Semana - 27</a><i> &nbsp;(4 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/30/resumo-da-semana/26/" target="_blank">Resumo da Semana - 26</a><i> &nbsp;(18 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/23/resumo-da-semana/25/" target="_blank">Resumo da Semana - 25</a><i> &nbsp;(25 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/08/16/resumo-da-semana/24/" target="_blank">Resumo da Semana - 24</a><i> &nbsp;(32 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
