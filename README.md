@@ -12,11 +12,11 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/10/25/resumo-da-semana/32/" target="_blank">Resumo da Semana - 32</a><i> &nbsp;(3 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/10/18/resumo-da-semana/31/" target="_blank">Resumo da Semana - 31</a><i> &nbsp;(10 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/10/04/resumo-da-semana/30/" target="_blank">Resumo da Semana - 30</a><i> &nbsp;(24 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/09/27/resumo-da-semana/29/" target="_blank">Resumo da Semana - 29</a><i> &nbsp;(31 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/09/20/resumo-da-semana/28/" target="_blank">Resumo da Semana - 28</a><i> &nbsp;(38 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/10/25/resumo-da-semana/32/" target="_blank">Resumo da Semana - 32</a><i> &nbsp;(4 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/10/18/resumo-da-semana/31/" target="_blank">Resumo da Semana - 31</a><i> &nbsp;(11 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/10/04/resumo-da-semana/30/" target="_blank">Resumo da Semana - 30</a><i> &nbsp;(25 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/09/27/resumo-da-semana/29/" target="_blank">Resumo da Semana - 29</a><i> &nbsp;(32 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://www.blog.lfrigodesouza.net/2021/09/20/resumo-da-semana/28/" target="_blank">Resumo da Semana - 28</a><i> &nbsp;(39 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
