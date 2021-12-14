@@ -12,11 +12,11 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/06/resumo-da-semana/38/" target="_blank">Resumo da Semana - 38</a><i> &nbsp;(7 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/11/30/resumo-da-semana/37/" target="_blank">Resumo da Semana - 37</a><i> &nbsp;(13 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/11/22/resumo-da-semana/36/" target="_blank">Resumo da Semana - 36</a><i> &nbsp;(21 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/11/18/criando-um-plano-de-continuidade-de-negocio/" target="_blank">Criando um Plano de Continuidade de Negócio</a><i> &nbsp;(25 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/11/16/resumo-da-semana/35/" target="_blank">Resumo da Semana - 35</a><i> &nbsp;(27 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/13/resumo-da-semana/39/" target="_blank">Resumo da Semana - 39</a><i> &nbsp;(1 dia atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/06/resumo-da-semana/38/" target="_blank">Resumo da Semana - 38</a><i> &nbsp;(8 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/11/30/resumo-da-semana/37/" target="_blank">Resumo da Semana - 37</a><i> &nbsp;(14 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/11/22/resumo-da-semana/36/" target="_blank">Resumo da Semana - 36</a><i> &nbsp;(22 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/11/18/criando-um-plano-de-continuidade-de-negocio/" target="_blank">Criando um Plano de Continuidade de Negócio</a><i> &nbsp;(26 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
