@@ -12,11 +12,11 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/04/resumo-da-semana/41/" target="_blank">Resumo da Semana - 41</a><i> &nbsp;(6 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/21/resumo-da-semana/40/" target="_blank">Resumo da Semana - 40</a><i> &nbsp;(20 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/13/resumo-da-semana/39/" target="_blank">Resumo da Semana - 39</a><i> &nbsp;(28 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/06/resumo-da-semana/38/" target="_blank">Resumo da Semana - 38</a><i> &nbsp;(35 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/11/30/resumo-da-semana/37/" target="_blank">Resumo da Semana - 37</a><i> &nbsp;(41 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/10/resumo-da-semana/42/" target="_blank">Resumo da Semana - 42</a><i> &nbsp;(1 dia atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/04/resumo-da-semana/41/" target="_blank">Resumo da Semana - 41</a><i> &nbsp;(7 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/21/resumo-da-semana/40/" target="_blank">Resumo da Semana - 40</a><i> &nbsp;(21 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/13/resumo-da-semana/39/" target="_blank">Resumo da Semana - 39</a><i> &nbsp;(29 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/06/resumo-da-semana/38/" target="_blank">Resumo da Semana - 38</a><i> &nbsp;(36 dias atrás)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
