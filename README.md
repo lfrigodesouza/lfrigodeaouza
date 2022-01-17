@@ -12,11 +12,11 @@ Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/10/resumo-da-semana/42/" target="_blank">Resumo da Semana - 42</a><i> &nbsp;(7 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/04/resumo-da-semana/41/" target="_blank">Resumo da Semana - 41</a><i> &nbsp;(13 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/21/resumo-da-semana/40/" target="_blank">Resumo da Semana - 40</a><i> &nbsp;(27 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/13/resumo-da-semana/39/" target="_blank">Resumo da Semana - 39</a><i> &nbsp;(35 dias atrás)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/06/resumo-da-semana/38/" target="_blank">Resumo da Semana - 38</a><i> &nbsp;(42 dias atrás)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/17/resumo-da-semana/43/" target="_blank">Resumo da Semana - 43</a><i> &nbsp;(17/01/22 08:00:51)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/10/resumo-da-semana/42/" target="_blank">Resumo da Semana - 42</a><i> &nbsp;(10/01/22 08:05:23)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/04/resumo-da-semana/41/" target="_blank">Resumo da Semana - 41</a><i> &nbsp;(04/01/22 08:05:02)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/21/resumo-da-semana/40/" target="_blank">Resumo da Semana - 40</a><i> &nbsp;(21/12/21 08:49:24)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2021/12/13/resumo-da-semana/39/" target="_blank">Resumo da Semana - 39</a><i> &nbsp;(13/12/21 08:03:12)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
