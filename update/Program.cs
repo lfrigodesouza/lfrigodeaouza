@@ -44,12 +44,19 @@ for (var i = 0; i < 5; i++)
     var (title, postDate, permaLink) = GetPostDetails(posts[i]);
 
     postsLinks.AppendLine(
-        $"<li style=\"list-style-type: none;\"><a href=\"{permaLink}\" target=\"_blank\">{title}</a><i> &nbsp;({GetPublishDate(postDate)})</i></li>");
+        $"<li style=\"list-style-type: none;\"><a href=\"{permaLink}\" target=\"_blank\">{title}</a><i> &nbsp;({GetPublishDateTime(postDate)})</i></li>");
     // postsLinks.AppendLine($"* [{title}]({permaLink}) _({GetPublishDate(postDate)})_ ");
 }
 
 var readmeContent = template.Replace("#ARTICLES_PLACEHOLDER#", postsLinks.ToString());
 File.WriteAllText("../README.md", readmeContent);
+
+string GetPublishDateTime(DateTime postDate){
+    var publishedDateTime = System.TimeZoneInfo.ConvertTimeFromUtc(
+    postDate.ToUniversalTime(), 
+    TimeZoneInfo.FindSystemTimeZoneById("Brazil/East"));
+    return publishedDateTime.ToString("dd/MM/yy HH:mm:ss");
+}
 
 string GetPublishDate(DateTime postDate)
 {
