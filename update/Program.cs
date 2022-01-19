@@ -4,12 +4,12 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 
-var template = @"# ✌ Olá, seja bem-vindo(a)!
+var template = @"# ✌ Olá, seja bem-vindo/a!
 
-Me chamo **Lucas**, sou formado em Engenharia da Computação, tenho MBA em Engenharia de Software e estou cursando um MBA em CyberSecurity.
-Com 10 anos de experiência em TI, trabalho atualmente como desenvolvedor sênior.
+Me chamo **Lucas**, sou formado em Engenharia da Computação, tenho MBA em Engenharia de Software e estou cursando MBA em CyberSecurity.
+Com 10 anos de experiência em TI, trabalho atualmente como Líder Técnico.
 
-Meu foco é desenvolvimento backend com .NET e em DevSec, mas sempre busco novos conhecimentos nos mais diversos assuntos e tecnologias, e nos meus repositórios você vai encontrar todos tipos de projetos.
+Meu foco é em DevSec e desenvolvimento backend com .NET, mas sempre busco novos conhecimentos nos mais diversos assuntos e tecnologias, e nos meus repositórios você vai encontrar todos tipos de projetos.
 </br><p align=""center"">
 <a href=""https://www.linkedin.com/in/lfrigodesouza/""><img src=""https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lfrigodesouza/""></a>
 <a href=""https://twitter.com/lfrigodesouza/""><img src=""https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/lfrigodesouza/""></a>
