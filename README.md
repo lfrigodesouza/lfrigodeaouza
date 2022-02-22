@@ -12,11 +12,11 @@ Meu foco é em DevSec e desenvolvimento backend com .NET, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/02/21/resumo-da-semana/47/" target="_blank">Resumo da Semana - 47</a><i> &nbsp;(21/02/22 08:14:56)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/02/07/resumo-da-semana/46/" target="_blank">Resumo da Semana - 46</a><i> &nbsp;(07/02/22 08:08:56)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/31/resumo-da-semana/45/" target="_blank">Resumo da Semana - 45</a><i> &nbsp;(31/01/22 08:17:39)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/24/resumo-da-semana/44/" target="_blank">Resumo da Semana - 44</a><i> &nbsp;(24/01/22 09:15:39)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/17/resumo-da-semana/43/" target="_blank">Resumo da Semana - 43</a><i> &nbsp;(17/01/22 08:00:51)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/01/10/resumo-da-semana/42/" target="_blank">Resumo da Semana - 42</a><i> &nbsp;(10/01/22 08:05:23)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
