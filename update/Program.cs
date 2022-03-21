@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 
-var template = @"# ✌ Olá, seja bem-vindo/a!
+var template = @"# ✌ Olá, boas vindas!
 
 Me chamo **Lucas**, sou formado em Engenharia da Computação, tenho MBA em Engenharia de Software e estou cursando MBA em CyberSecurity.
 Com 10 anos de experiência em TI, trabalho atualmente como Líder Técnico.
