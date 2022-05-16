@@ -12,11 +12,11 @@ Meu foco é em DevSec e desenvolvimento backend com .NET, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/05/16/resumo-da-semana/58/" target="_blank">Resumo da Semana - 58</a><i> &nbsp;(16/05/22 08:12:09)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/05/09/resumo-da-semana/57/" target="_blank">Resumo da Semana - 57</a><i> &nbsp;(09/05/22 07:42:36)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/05/02/resumo-da-semana/56/" target="_blank">Resumo da Semana - 56</a><i> &nbsp;(02/05/22 08:13:56)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/04/25/resumo-da-semana/55/" target="_blank">Resumo da Semana - 55</a><i> &nbsp;(25/04/22 08:07:40)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/04/22/lgpd/Parte-VII-Como-tem-sido-a-fiscalizacao/" target="_blank">LGPD - Parte VII - Como tem sido a fiscalização?</a><i> &nbsp;(22/04/22 17:50:29)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/04/18/resumo-da-semana/54/" target="_blank">Resumo da Semana - 54</a><i> &nbsp;(18/04/22 08:03:10)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/04/11/resumo-da-semana/53/" target="_blank">Resumo da Semana - 53</a><i> &nbsp;(11/04/22 08:01:25)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
