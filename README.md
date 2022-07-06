@@ -12,11 +12,11 @@ Meu foco é em DevSec e desenvolvimento backend com .NET, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/06/27/resumo-da-semana/64/" target="_blank">Resumo da Semana - 64</a><i> &nbsp;(27/06/22 08:30:07)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/06/20/resumo-da-semana/63/" target="_blank">Resumo da Semana - 63</a><i> &nbsp;(20/06/22 08:49:09)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/06/13/resumo-da-semana/62/" target="_blank">Resumo da Semana - 62</a><i> &nbsp;(13/06/22 08:58:10)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/06/08/o-que-e-software-livre-e-de-codigo-aberto/" target="_blank">O que é software livre e de código aberto?</a><i> &nbsp;(08/06/22 20:48:59)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/06/06/resumo-da-semana/61/" target="_blank">Resumo da Semana - 61</a><i> &nbsp;(06/06/22 08:04:03)</i></li>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2022/05/30/resumo-da-semana/60/" target="_blank">Resumo da Semana - 60</a><i> &nbsp;(30/05/22 08:13:07)</i></li>
 
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net" target="_blank">Veja mais...</a></li>
 </ul>
