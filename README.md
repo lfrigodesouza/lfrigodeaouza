@@ -13,7 +13,7 @@ Meu foco é em DevSec e desenvolvimento backend com .NET, mas sempre busco novos
 
 ## ✒️Artigos Recentes
 <ul>
-<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2024/03/12/o-que-olhar-na-revisao-de-codigo/" target="_blank">O que olhar na Revisão de Código</a><i> &nbsp;(12/03/24 18:50:58)</i></li>
+<li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2024/03/12/revisao-de-codigo-o-que-e-e-o-que-fazer/" target="_blank">Revisão de Código - o que é e o que fazer</a><i> &nbsp;(12/03/24 18:50:58)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2023/09/15/Caso-Unity-e-o-uso-de-software-proprietario/" target="_blank">Caso Unity e o uso de software proprietário</a><i> &nbsp;(15/09/23 09:06:01)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2023/06/20/ChatGPT-e-IA-Geracionais-Transformando-a-Sociedade-e-Desafiando-Limites/" target="_blank">ChatGPT e IA Geracionais: Transformando a Sociedade e Desafiando Limites</a><i> &nbsp;(20/06/23 08:38:34)</i></li>
 <li style="list-style-type: none;"><a href="https://blog.lfrigodesouza.net/2023/02/07/Dia-da-Internet-Segura-2023/" target="_blank">Dia da Internet Segura 2023</a><i> &nbsp;(07/02/23 08:24:33)</i></li>
