@@ -5,10 +5,11 @@ Com 14 anos de experiência em TI, trabalho atualmente como Líder Técnico.
 
 Meu foco é em DevSec e desenvolvimento backend com .NET, mas sempre busco novos conhecimentos nos mais diversos assuntos e tecnologias, e nos meus repositórios você vai encontrar todos tipos de projetos.
 </br><p align="center">
-<a href="https://www.linkedin.com/in/lfrigodesouza/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lfrigodesouza/"></a>
+<a href="https://bsky.app/profile/lfrigodesouza.net" rel="me"><img src="https://img.shields.io/badge/-BlueSky-161e27?style=flat-square&logo=bluesky&logoColor=0285FF&link=https://bsky.app/profile/lfrigodesouza.net"></a>
 <a href="https://techhub.social/@lfrigodesouza" rel="me"><img src="https://img.shields.io/badge/-Mastodon-191b22?style=flat-square&logo=mastodon&logoColor=6162fe&link=https://techhub.social/@lfrigodesouza"></a>
-<a href="https://LFrigoDeSouza.NET/"><img src="https://img.shields.io/badge/-LFS.NET-9e9e9e?style=flat-square&logo=microsoft-edge&logoColor=white&link=https://LFrigoDeSouza.NET/"></a>
-<a href="https://twitter.com/lfrigodesouza/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/lfrigodesouza/"></a>
+<a href="https://www.threads.net/@lfrigodesouza" rel="me"><img src="https://img.shields.io/badge/-Threads-161e27?style=flat-square&logo=threads&logoColor=FFFFFF&link=https://www.threads.net/@lfrigodesouza"></a>
+<a href="https://www.linkedin.com/in/lfrigodesouza/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lfrigodesouza/"></a>
+<a href="https://LFrigoDeSouza.NET/"><img src="https://img.shields.io/badge/-LFS.NET-9e9e9e?style=flat-square&logo=firefox-browser&logoColor=white&link=https://LFrigoDeSouza.NET/"></a>
 </p>
 
 ## ✒️Artigos Recentes
